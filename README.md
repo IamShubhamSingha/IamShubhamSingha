@@ -11,8 +11,6 @@
 - 🥅 2022 Goals: To learn Python
 - ⚡ Fun fact: I love to play Cricket and Basketball
 - 📫 How to reach me: shubhamsingh8055.work@gmail.com
-- 😄 Pronouns: He/his
-
 
 ### Connect with me:
 
