@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2022 Goals: To learn Python
 - ⚡ Fun fact: I love to play Cricket and Basketball
-- 📫 How to reach me: shubhamsingh8055.work@gmail.com
+- 📫 You can reach me at: shubhamsingh8055.work@gmail.com
 
 ### Connect with me:
 
