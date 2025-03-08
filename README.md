@@ -1,9 +1,9 @@
 ### Hello there, 👋I'm Shubham Singh
 <p align="center">
-  <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png"
-     width="400" 
-     height="500" />
+https://github.com/user-attachments/assets/7efeee3c-4fc2-4fe7-928c-4a6dbf8a3c30
 </p>
+
+
 
 
 - 🌱 I’m currently learning Data structure and Algorithm (DSA) and DEVelopment, Device driver (DEV).
