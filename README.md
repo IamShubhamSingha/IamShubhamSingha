@@ -1,6 +1,6 @@
 ### Hello there, 👋I'm Shubham Singh
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/e1bd95a3-7bff-4603-b771-5e7e4e0fb5a6)"
+<img src="![image](https://github.com/user-attachments/assets/e1bd95a3-7bff-4603-b771-5e7e4e0fb5a6)">
 </p>
 
 
