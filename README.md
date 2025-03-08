@@ -1,6 +1,7 @@
 ### Hello there, 👋I'm Shubham Singh
 <p align="center">
-https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e47tkohyl9rlqnlwjodlgdovtt44kzo6sdxnx0dm9qp&ep=v1_gifs_search&rid=giphy.webp&ct=g
+  ![image](https://github.com/user-attachments/assets/a879a105-8f48-44fc-92f8-71ab6c068e7e)
+
 </p>
 
 
