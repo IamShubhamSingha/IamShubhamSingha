@@ -1,7 +1,5 @@
-### Hello there, 👋I'm Shubham Singh
-<p align="center"
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
 
@@ -11,6 +9,8 @@
 - 🥅 2022 Goals: To learn Python
 - ⚡ Fun fact: I love to play Cricket and Basketball
 - 📫 You can reach me at: shubhamsingh8055.work@gmail.com
+
+
 
 ### Connect with me:
 
