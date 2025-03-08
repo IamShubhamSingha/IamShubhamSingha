@@ -1,6 +1,6 @@
 ### Hello there, 👋I'm Shubham Singh
 <p align="center">
-  <image src="https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png">
+  <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png"
      width="400" 
      height="500" />
 </p>
